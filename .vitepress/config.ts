@@ -4,7 +4,7 @@ import {webMenu} from './menu/web'
 export default defineConfig({
   title: "xm-blog",
   description: "AllCode",
-  base:'./',
+  base:'/dist/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
